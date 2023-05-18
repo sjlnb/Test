@@ -1,1 +1,16 @@
 你好
+
+$ git push origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 406.10 MiB | 1.64 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+remote: error: Trace: 027c417227caaed6bdc880943b56fd1b6d705d014fab558cc365e1ba237330cf
+remote: error: See https://gh.io/lfs for more information.
+remote: error: File foc-master.zip is 406.28 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/sjlnb/Test.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/sjlnb/Test.git'
