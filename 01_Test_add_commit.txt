@@ -5,3 +5,6 @@
 2、上传的密码是令牌密码
 3、如果已经将太大的文件提交至版本库但被打回，则需要先删除掉相关文件的索引，不行时只能将版本进行回退，回退至出错误的上一版本
 4、pull->status->add->commit->log->push
+
+
+重新修改个人令牌：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
