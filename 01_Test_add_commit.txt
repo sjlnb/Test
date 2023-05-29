@@ -8,3 +8,8 @@
 
 
 重新修改个人令牌：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
+更新：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
+
+2023年5月25日16:06:04：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
+
+取消代理，第二个密码为token
